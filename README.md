@@ -1,7 +1,7 @@
 # WoT-PL Integration with Large Language Models (LLMs)
 
 ## Overview
-This repository contains the implementation code for the experiments described in the paper titled "Harnessing Large Language Models for IoT Schema Translation: A Conceptual Framework and Preliminary Findings". 
+This repository contains the implementation code for the experiments described in the paper "WoT-PL - Harnessing Large Language Models for IoT Schema Translation: A Conceptual Framework and Preliminary Findings". 
 The paper discusses using LLMs to automate the translation of IoT device data into standardized Web of Things (WoT) Thing Descriptions. 
 This repository includes the necessary scripts to replicate the experiments, measure the performance, and evaluate the accuracy and reliability of the generated WoT descriptions.
 
