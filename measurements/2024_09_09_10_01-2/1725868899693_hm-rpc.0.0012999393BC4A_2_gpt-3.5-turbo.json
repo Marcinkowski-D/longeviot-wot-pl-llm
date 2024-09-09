@@ -1,0 +1,11 @@
+[
+  [
+    "hm-rpc.0.0012999393BC4A",
+    "Homematic radiator thermostat in living room"
+  ],
+  2,
+  "OpenAI",
+  "gpt-3.5-turbo",
+  0.792027399991639,
+  "Error code: 401 - {'error': {'message': 'Incorrect API key provided: #openai_key. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}"
+]
